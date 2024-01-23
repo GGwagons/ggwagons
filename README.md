@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://art.pixilart.com/sr28deda68ab025.gif" .cropped { width: 150px; height: 150px; overflow: hidden; }/>
+  <img src="https://art.pixilart.com/sr28deda68ab025.gif".cropped { width: 150px; height: 150px; overflow: hidden; }/>
 </p>
 ### Hi there 👋
 
