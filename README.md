@@ -7,7 +7,7 @@
 
  <table height=350>
   <tr aline="center">
-    <th><a href="https://github.com/Schmitzi/libft"><img src="img/libftm.png"/> </a></th>
+    <th><a href="https://github.com/GGwagons/libft"><img src="img/libftm.png"/> </a></th>
     <th>Contact</th>
     <th>Country</th>
   </tr>
