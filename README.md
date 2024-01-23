@@ -14,7 +14,6 @@
     <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
     <td><a href="https://github.com/GGwagons/ft_printf"><img src="img/ft_printfe.png"/></a></td>
    <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
-   <td></td>
   </tr>
 
   <tr align="center">
