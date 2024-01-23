@@ -1,9 +1,9 @@
 <p align="center">
   <img src="img/m_efug-ezgif.com-crop.gif" height=350/>
 </p>
-
+<h1>
 ### Hi there 👋 my name is Miha Türk
-
+</h1>
 
  <table>
   <tr>
