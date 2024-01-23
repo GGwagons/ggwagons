@@ -7,28 +7,31 @@
  Hi there 👋 my name is Miha Türk
 </h1>
 
-
  <table align="center">
   <tr align="center">
     <td><a href="https://github.com/GGwagons/Libft"><img src="img/libfte.png"    /></a></td>
-    <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
+    <td><h4 align="center"><a href="http://github.com/GGwagons/Libft">PROJECT: Libft</a></h4><p2>about the project</p2></td>
     <td><a href="https://github.com/GGwagons/ft_printf"><img src="img/ft_printfe.png"/></a></td>
-   <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
+   <td><h4 align="center"><a href="http://github.com/GGwagons/ft_printf">PROJECT: ft_printf</a></h4><p2>about the project</p2></td>
   </tr>
 
   <tr align="center">
     <td><a href="https://github.com/GGwagons/get_next_line"><img src="img/get_next_linee.png"/></a></td>
-    <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
+    <td><h4 align="center"><a href="http://github.com/GGwagons/get_next_line">PROJECT: get_next_line</a></h4><p2>about the project</p2></td>
     <td><a href="https://github.com/GGwagons/minitalk"><img src="img/minitalkm.png"/></a></td>
-    <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
+    <td><h4 align="center"><a href="http://github.com/GGwagons/minitalk">PROJECT: minitalk</a></h4><p2>about the project</p2></td>
   </tr>
 
   <tr align="center">
-    <td><a href="https://github.com/GGwagons/get_next_line"><img src="img/Fractole.png"/></a></td>
-    <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
-    <td><a href="https://github.com/GGwagons/minitalk"><img src="img/minitalkm.png"/></a></td>
-    <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
+    <td><a href="https://github.com/GGwagons/Fract-ol"><img src="img/fract-olm.png"/></a></td>
+    <td><h4 align="center"><a href="http://github.com/GGwagons/Fract-ol">PROJECT: Fract-ol</a></h4><p2>about the project</p2></td>
+    <td><a href="https://github.com/GGwagons/push_swap"><img src="img/push_swape.png"/></a></td>
+    <td><h4 align="center"><a href="http://github.com/GGwagons/push_swap">PROJECT: push_swap</a></h4><p2>about the project</p2></td>
   </tr>
+
+  <tr align="center">
+    <td><a href="https://github.com/GGwagons/Born2beroot"><img src="img/born2beroote.png"/></a></td>
+    <td><h4 align="center"><a href="http://github.com/GGwagons/Born2beroot">PROJECT: Born2beroot</a></h4><p2>about the project</p2></td>
 
 </table> 
 
