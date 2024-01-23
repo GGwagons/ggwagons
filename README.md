@@ -5,7 +5,7 @@
 ### Hi there 👋 my name is Miha Türk
 </h1>
 
- <table height=auto>
+ <table height="auto">
   <tr aline="center">
     <th>Company</th>
     <th>Contact</th>
