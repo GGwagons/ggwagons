@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.tenor.com/49vzIwB6gXcAAAAM/shuba-duck.gif"/>
+</p>
 ### Hi there 👋
 
 <!--
