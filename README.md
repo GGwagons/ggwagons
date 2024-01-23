@@ -24,7 +24,7 @@
   </tr>
 
   <tr align="center">
-    <td><a href="https://github.com/GGwagons/get_next_line"><img src="img/Fract-ole.png"/></a></td>
+    <td><a href="https://github.com/GGwagons/get_next_line"><img src="img/Fractole.png"/></a></td>
     <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
     <td><a href="https://github.com/GGwagons/minitalk"><img src="img/minitalkm.png"/></a></td>
     <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
