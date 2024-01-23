@@ -5,18 +5,18 @@
 ### Hi there 👋 my name is Miha Türk
 </h1>
 
- <table aline="center">
-  <tr>
+ <table >
+  <tr aline="center">
     <th>Company</th>
     <th>Contact</th>
     <th>Country</th>
   </tr>
-  <tr>
+  <tr aline="center">
     <td>Alfreds Futterkiste</td>
     <td>Maria Anders</td>
     <td>Germany</td>
   </tr>
-  <tr>
+  <tr aline="center">
     <td>Centro comercial Moctezuma</td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
