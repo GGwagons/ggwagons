@@ -12,7 +12,6 @@
   <tr align="center">
     <td><a href="https://github.com/GGwagons/Libft"><img src="img/libfte.png"    /></a></td>
     <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
-    <td></td><td></td>
     <td><a href="https://github.com/GGwagons/ft_printf"><img src="img/ft_printfe.png"/></a></td>
    <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
    <td></td>
@@ -21,7 +20,6 @@
   <tr align="center">
     <td><a href="https://github.com/GGwagons/get_next_line"><img src="img/get_next_linee.png"/></a></td>
     <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
-    <td></td><td></td>
     <td><a href="https://github.com/GGwagons/minitalk"><img src="img/minitalkm.png"/></a></td>
     <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
   </tr>
@@ -29,7 +27,6 @@
   <tr align="center">
     <td><a href="https://github.com/GGwagons/get_next_line"><img src="img/get_next_linee.png"/></a></td>
     <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
-    <td></td><td></td>
     <td><a href="https://github.com/GGwagons/minitalk"><img src="img/minitalkm.png"/></a></td>
     <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
   </tr>
