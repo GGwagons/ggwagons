@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://art.pixilart.com/sr28deda68ab025.gif" height=100/>
+  <img src="https://art.pixilart.com/sr28deda68ab025.gif" cropheight=100/>
 </p>
 ### Hi there 👋
 
