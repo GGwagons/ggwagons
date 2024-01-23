@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/m_efug-ezgif.com-crop.gif" height=300/>
+  <img src="img/m_efug-ezgif.com-crop.gif" height=350/>
 </p>
 ### Hi there 👋
 
