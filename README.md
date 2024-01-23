@@ -1,7 +1,27 @@
 <p align="center">
   <img src="img/m_efug-ezgif.com-crop.gif" height=350/>
 </p>
-### Hi there 👋
+
+### Hi there 👋 my name is Miha Türk
+
+
+ <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table> 
 
 <!--
 **GGwagons/ggwagons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
