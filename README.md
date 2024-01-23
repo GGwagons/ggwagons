@@ -1,31 +1,39 @@
 <p align="center">
   <img src="img/m_efug-ezgif.com-crop.gif" height=350/>
 </p>
-<h1>
-### Hi there 👋 my name is Miha Türk
+
+
+<h1 align="center">
+ Hi there 👋 my name is Miha Türk
 </h1>
 
- <table height=350>
-  <tr aline="center">
-    <th><a href="https://github.com/GGwagons/libft"><img src="img/libftm.png"/> </a></th>
-    <th>Contact</th>
-    <th>Country</th>
+
+ <table align="center">
+  <tr align="center">
+    <td><a href="https://github.com/GGwagons/Libft"><img src="img/libfte.png"    /></a></td>
+    <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
+    <td></td><td></td>
+    <td><a href="https://github.com/GGwagons/ft_printf"><img src="img/ft_printfe.png"/></a></td>
+   <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
+   <td></td>
   </tr>
-  <tr aline="center">
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+
+  <tr align="center">
+    <td><a href="https://github.com/GGwagons/get_next_line"><img src="img/get_next_linee.png"/></a></td>
+    <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
+    <td></td><td></td>
+    <td><a href="https://github.com/GGwagons/minitalk"><img src="img/minitalkm.png"/></a></td>
+    <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
   </tr>
-  <tr aline="center">
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+
+  <tr align="center">
+    <td><a href="https://github.com/GGwagons/get_next_line"><img src="img/get_next_linee.png"/></a></td>
+    <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
+    <td></td><td></td>
+    <td><a href="https://github.com/GGwagons/minitalk"><img src="img/minitalkm.png"/></a></td>
+    <td><h4 align="center">PROJECT</h4><p2>about the project</p2></td>
   </tr>
-    <tr aline="center">
-    <td>id</td>
-    <td>ewdf</td>
-    <td>aef</td>
-  </tr>
+
 </table> 
 
 <!--
