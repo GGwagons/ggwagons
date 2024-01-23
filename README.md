@@ -5,7 +5,7 @@
 #
 
 <h2 align="center">ABOUT ME</h2>
-My name is Miha Türk, a Material Design Engineering graduate with a passion for graphic and 3D design and programing.
+My name is Miha Türk, a Material Design Engineering graduate with a passion for graphic, 3D design and programming.
 I'm furthering my skills in programming at 42Vienna.
 C is for now my go-to languages and I have dabbled for a bit in frontend and learn the fundametals of CSS and HTML.
 Originally from Slovenia, but living in Austria (Vienna).
