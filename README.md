@@ -21,6 +21,11 @@
     <td>Francisco Chang</td>
     <td>Mexico</td>
   </tr>
+    <tr aline="center">
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
 </table> 
 
 <!--
