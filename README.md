@@ -77,7 +77,6 @@ Originally from Slovenia, but living in Austria (Vienna).
 <h2 align="center">
 SKILLS 
 </h2>
-</p>
   <img src="img/c.svg" height="50">
   <img src="img/git.svg" height="50">
   <img src="img/linux.svg" height="50">
@@ -88,8 +87,6 @@ SKILLS
   <img src="img/html.svg" height="50">
   <img src="img/css.svg"height="50">
   <img src="img/markdown.svg" height="50">
-<p>
-
 
 
 <!--
