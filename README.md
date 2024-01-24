@@ -86,8 +86,7 @@ SKILLS
   <img src="img/vim.svg" height="50">
   <img src="img/github.svg" height="50">
   <img src="img/html.svg" height="50">
-  <img src="img/css.svg"
-  height="50">
+  <img src="img/css.svg"height="50">
   <img src="img/markdown.svg" height="50">
 <p>
 
