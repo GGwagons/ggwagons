@@ -77,8 +77,9 @@ Originally from Slovenia, but living in Austria (Vienna).
 <h2 align="center">
 SKILLS 
 </h2>
-<img src="img/c.svg" height="50"><img src="img/git.svg" height="50"><img src="img/linux.svg" height="50"><img src="img/unix.svg" height="50"><img src="img/vscode.svg" height="50"><img src="img/vim.svg" height="50"><img src="img/github.svg" height="50"><img src="img/html.svg" height="50"><img src="img/css.svg"height="50"><img src="img/markdown.svg" height="50">
+<p><img src="img/c.svg" height="50"><img src="img/git.svg" height="50"><img src="img/linux.svg" height="50"><img src="img/unix.svg" height="50"><img src="img/vscode.svg" height="50"><img src="img/vim.svg" height="50"><img src="img/github.svg" height="50"><img src="img/html.svg" height="50"><img src="img/css.svg"height="50"><img src="img/markdown.svg" height="50"></p>
 
+##
 
 <!--
 **GGwagons/ggwagons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
