@@ -63,12 +63,12 @@ Originally from Slovenia, but living in Austria (Vienna).
     </td>
   </tr>
 
-  <tr align="center">
-    <td><a href="https://github.com/GGwagons/Born2beroot"><img src="img/born2beroote.png"/></a></td>
-    <td><h4 align="center"><a href="http://github.com/GGwagons/Born2beroot">Born2beroot</a></h4>
-    <img src="https://img.shields.io/badge/Born2beroot-100%2F100-20%25%20green">
-    </td>
-  </tr>
+##  <tr align="center">
+##    <td><a href="https://github.com/GGwagons/Born2beroot"><img src="img/born2beroote.png"/></a></td>
+##    <td><h4 align="center"><a href="http://github.com/GGwagons/Born2beroot">Born2beroot</a></h4>
+##    <img src="https://img.shields.io/badge/Born2beroot-100%2F100-20%25%20green">
+##    </td>
+##  </tr>
 </table>
 
 ##
