@@ -62,6 +62,22 @@ Originally from Slovenia, but living in Austria (Vienna).
       <img src="https://img.shields.io/badge/push_swap-100%2F84-20%25%20green">
     </td>
   </tr>
+   <tr align="center">
+    <td>
+      <a href="https://github.com/GGwagons/Philosophers"><img src="img/philosopherse.png"/></a>
+    </td>
+    <td>
+      <h4 align="center"><a href="http://github.com/GGwagons/Philosophers">Philosophers</a></h4>
+      <img src="https://img.shields.io/badge/Philosophers-100%2F100-20%25%20green">
+    </td>
+    <!--<td>
+      <a href="https://github.com/GGwagons/ft_printf"><img src="img/ft_printfe.png"/></a>
+    </td>
+    <td>
+      <h4 align="center"><a href="http://github.com/GGwagons/ft_printf">ft_printf</a></h4>
+      <img src="https://img.shields.io/badge/ft_printf-100%2F100-20%25%20green">
+    </td>
+  </tr>
 
 <!--  <tr align="center">
 ##    <td><a href="https://github.com/GGwagons/Born2beroot"><img src="img/born2beroote.png"/></a></td>
@@ -88,6 +104,7 @@ SKILLS
   <img src="img/html.svg" height="50">
   <img src="img/css.svg"height="50">
   <img src="img/markdown.svg" height="50">
+  <img src="img/visual-studio-code.svg" height="50">
 </p>
 
 
