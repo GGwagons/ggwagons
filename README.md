@@ -70,12 +70,12 @@ Originally from Slovenia, but living in Austria (Vienna).
       <h4 align="center"><a href="http://github.com/GGwagons/Philosophers">Philosophers</a></h4>
       <img src="https://img.shields.io/badge/Philosophers-100%2F100-20%25%20green">
     </td>
-    <!--<td>
-      <a href="https://github.com/GGwagons/ft_printf"><img src="img/ft_printfe.png"/></a>
+    <<td>
+      <a href="https://github.com/GGwagons/Minishell"><img src="img/minishell.png"/></a>
     </td>
     <td>
-      <h4 align="center"><a href="http://github.com/GGwagons/ft_printf">ft_printf</a></h4>
-      <img src="https://img.shields.io/badge/ft_printf-100%2F100-20%25%20green">
+      <h4 align="center"><a href="http://github.com/GGwagons/Minishell">Minishell</a></h4>
+      <img src="https://img.shields.io/badge/minishell-100%2F93-20%25%20green">
     </td>
   </tr>
 
