@@ -42,7 +42,7 @@ Originally from Slovenia, but living in Austria (Vienna).
     </td>
     <td>
       <h4 align="center"><a href="http://github.com/GGwagons/minitalk">minitalk</a></h4>
-      <img src="https://img.shields.io/badge/Fractol-100%2F115-20%25%20green">
+      <img src="https://img.shields.io/badge/Fractol-125%2F115-20%25%20green">
     </td>
   </tr>
 
