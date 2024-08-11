@@ -75,7 +75,7 @@ Originally from Slovenia, but living in Austria (Vienna).
     </td>
     <td>
       <h4 align="center"><a href="http://github.com/GGwagons/Minishelle">Minishell</a></h4>
-      <img src="https://img.shields.io/badge/minishell-100%2F93-20%25%20green">
+      <img src="https://img.shields.io/badge/Minishell-100%2F93-20%25%20green">
     </td>
   </tr>
 
