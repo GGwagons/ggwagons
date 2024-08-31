@@ -77,6 +77,7 @@ Originally from Slovenia, but living in Austria (Vienna).
       <img src="https://img.shields.io/badge/Minishell-100%2F93-20%25%20green">
     </td>
   </tr>
+</table>
 
 <!--  <tr align="center">
 ##    <td><a href="https://github.com/GGwagons/Born2beroot"><img src="img/born2beroote.png"/></a></td>
@@ -84,7 +85,6 @@ Originally from Slovenia, but living in Austria (Vienna).
 ##    <img src="https://img.shields.io/badge/Born2beroot-100%2F100-20%25%20green">
 ##    </td>
   </tr> --!>
-</table>
 
 
 
