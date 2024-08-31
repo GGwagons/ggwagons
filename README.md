@@ -10,6 +10,7 @@ I'm furthering my skills in programming at 42Vienna.
 Originally from Slovenia, but living in Austria (Vienna).
 
 <h2 align="center">PROJECTS</h2>
+
 <table align="center">
   <tr align="center">
     <td>
