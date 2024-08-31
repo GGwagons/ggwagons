@@ -9,7 +9,7 @@ My name is Miha Türk, a Material Design Engineering graduate with a passion for
 I'm furthering my skills in programming at 42Vienna.
 Originally from Slovenia, but living in Austria (Vienna).
 
-<h2 align="center">PROJECTS</h2>
+<h2 align="center">PROJECTS </h2>
 
 <table align="center">
   <tr align="center">
