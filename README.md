@@ -69,12 +69,19 @@ Originally from Slovenia, but living in Austria (Vienna).
       <h4 align="center"><a href="http://github.com/GGwagons/Philosophers">Philosophers</a></h4>
       <img src="https://img.shields.io/badge/Philosophers-100%2F100-20%25%20green">
     </td>
-    <<td>
+    <td>
       <a href="https://github.com/GGwagons/Minishell"><img src="img/minishelle.png"/></a>
     </td>
     <td>
       <h4 align="center"><a href="http://github.com/GGwagons/Minishell">Minishell</a></h4>
       <img src="https://img.shields.io/badge/Minishell-100%2F93-20%25%20green">
+    </td>
+      <td>
+      <a href="https://github.com/GGwagons/NetPractice"><img src="img/netpracticee.png"/></a>
+    </td>
+    <td>
+      <h4 align="center"><a href="http://github.com/GGwagons/NetPractice">NetPractice</a></h4>
+      <img src="https://img.shields.io/badge/NetPractice-100%2F100-20%25%20green">
     </td>
   </tr>
 </table>
