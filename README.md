@@ -11,7 +11,7 @@ Originally from Slovenia, but living in Austria (Vienna).
 
 <h2 align="center">PROJECTS </h2>
 
-<table align="center">
+<table align="center" size="50">
   <tr align="center">
     <td>
       <a href="https://github.com/GGwagons/Libft"><img src="img/libfte.png"/></a>
