@@ -110,6 +110,7 @@ SKILLS
 </h2>
 <p>
   <img src="img/c.svg" height="50">
+  <img src="img/cpp.svg" height="50">
   <img src="img/git.svg" height="50">
   <img src="img/linux.svg" height="50">
   <img src="img/unix.svg" height="50">
