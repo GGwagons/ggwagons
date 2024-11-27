@@ -111,13 +111,13 @@ SKILLS
 <p>
   <img src="img/c.svg" height="50">
   <img src="img/cpp.svg" height="50">
-  <img src="img/git.svg" height="50">
-  <img src="img/linux.svg" height="50">
-  <img src="img/unix.svg" height="50">
-  <img src="img/vim.svg" height="50">
-  <img src="img/github.svg" height="50">
   <img src="img/html.svg" height="50">
   <img src="img/css.svg"height="50">
+  <img src="img/linux.svg" height="50">
+  <img src="img/unix.svg" height="50">
+  <img src="img/git.svg" height="50">
+  <img src="img/github.svg" height="50">
+  <img src="img/vim.svg" height="50">
   <img src="img/visual-studio-code.svg" height="50">
 </p>
 
