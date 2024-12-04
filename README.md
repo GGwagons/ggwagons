@@ -92,6 +92,22 @@ Originally from Slovenia, but living in Austria (Vienna).
       <img src="https://img.shields.io/badge/cub3D-100%2F100-20%25%20green">
     </td>
     </tr>
+    <tr>
+     <td>
+      <a href="https://github.com/GGwagons/CPP"><img src="img/cppe.png"/></a>
+    </td>
+    <td>
+      <h4 align="center"><a href="http://github.com/GGwagons/CPP">C++</a></h4>
+      ##<img src="https://img.shields.io/badge/NetPractice-100%2F100-20%25%20green">
+    </td>
+    <td>
+      ##<a href="https://github.com/GGwagons/cub3D"><img src="img/cub3de.png"/></a>
+    </td>
+    <td>
+      ##<h4 align="center"><a href="http://github.com/GGwagons/cub3D">Cub3D</a></h4>
+      ##<img src="https://img.shields.io/badge/cub3D-100%2F100-20%25%20green">
+    </td>
+    </tr>
   </tr>
 </table>
 
