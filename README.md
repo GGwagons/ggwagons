@@ -11,8 +11,8 @@ Originally from Slovenia, but living in Austria (Vienna).
 
 <h2 align="center">PROJECTS </h2>
 
-<table align="center" size="50">
-  <tr align="center">
+<table align="center">
+  <tr align="center" height="20">
     <td>
       <a href="https://github.com/GGwagons/Libft"><img src="img/libfte.png"/></a>
     </td>
@@ -96,16 +96,16 @@ Originally from Slovenia, but living in Austria (Vienna).
      <td>
       <a href="https://github.com/GGwagons/CPP"><img src="img/cppe.png"/></a>
     </td>
-    <td>
+    <td align="center">
       <h4 align="center"><a href="http://github.com/GGwagons/CPP">C++</a></h4>
-      ##<img src="https://img.shields.io/badge/NetPractice-100%2F100-20%25%20green">
+      <img src="https://img.shields.io/badge/C++-100%2F100-20%25%20green">
     </td>
     <td>
-      ##<a href="https://github.com/GGwagons/cub3D"><img src="img/cub3de.png"/></a>
+      <!--<a href="https://github.com/GGwagons/cub3D"><img src="img/cub3de.png"/></a>-->
     </td>
     <td>
-      ##<h4 align="center"><a href="http://github.com/GGwagons/cub3D">Cub3D</a></h4>
-      ##<img src="https://img.shields.io/badge/cub3D-100%2F100-20%25%20green">
+      <!--<h4 align="center"><a href="http://github.com/GGwagons/cub3D">Cub3D</a></h4>
+      ##<img src="https://img.shields.io/badge/cub3D-100%2F100-20%25%20green">-->
     </td>
     </tr>
   </tr>
