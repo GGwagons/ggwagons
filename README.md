@@ -100,13 +100,13 @@ Originally from Slovenia, but living in Austria (Vienna).
 #
 
 <h2>PYTHON</h2>
-<table align="center">
+<table style="owerflow:hidden;" align="center">
   <tr>
     <td>
-      <h3 align="center"><a href="https://github.com/GGwagons/Python/tree/main/Guess_The_Number">Guess_The_Number</a><h3 align="center">
+      <h3 align="center"><a href="https://github.com/GGwagons/Python/tree/main/Guess_The_Number">Guess_The_Number</a></h3>
     </td>
     <td>
-      <h3 align="center"><a href="https://github.com/GGwagons/Python/tree/main/Auto_Login">Auto_Login</a></h3 align="center">
+      <h3 align="center"><a href="https://github.com/GGwagons/Python/tree/main/Auto_Login">Auto_Login</a></h3>
     </td>
   </tr>
 </table>
