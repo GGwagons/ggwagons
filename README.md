@@ -116,7 +116,8 @@ Originally from Slovenia, but living in Austria (Vienna).
 <h2>BASH</h2>
 <h4>----> Coming Soon</h4>
 
-<h2 align="center" style="display:flex; flex-direction:row;">SKILLS </h2>
+<h2 align="center">SKILLS </h2>
+<div style="display:flex; flex-direction:row; gap:10px;">
   <img src="img/c.svg" height="50">
   <img src="img/cpp.svg" height="50">
   <img src="img/html-1.svg" height="50">
@@ -127,6 +128,7 @@ Originally from Slovenia, but living in Austria (Vienna).
   <img src="img/github.svg" height="50">
   <img src="img/vim.svg" height="50">
   <img src="img/visual-studio-code.svg" height="50">
+</div>
 </p>
 
 
