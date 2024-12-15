@@ -45,7 +45,7 @@ Originally from Slovenia, but living in Austria (Vienna).
     <td>
       <h3 align="center"><a href="http://github.com/GGwagons/Fract-ol">Fract-ol</a></h3 align="center">
     </td>
-    <td>
+    <td height="80" width="80">
       <a href="https://github.com/GGwagons/push_swap"><img src="img/push_swape.png"/></a>
     </td>
     <td>
