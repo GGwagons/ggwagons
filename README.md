@@ -2,118 +2,126 @@
   <img src="img/m_efug-ezgif.com-crop.gif" height=350/>
 </p>
 
-#
 
 <h2 align="center">ABOUT ME</h2>
 My name is Miha Türk, a Material Design Engineering graduate with a passion for graphic, 3D design and programming.
 I'm furthering my skills in programming at 42Vienna.
 Originally from Slovenia, but living in Austria (Vienna).
 
-<h2 align="center">PROJECTS </h2>
+<h2>42 PROJECTS </h2>
 
-<table align="center">
-  <tr align="center" height="20">
-    <td>
+<table>
+  <tr>
+    <td height="80" width="80">
       <a href="https://github.com/GGwagons/Libft"><img src="img/libfte.png"/></a>
     </td>
     <td>
-      <h4 align="center"><a href="http://github.com/GGwagons/Libft">Libft</a></h4>
-      <img src="https://img.shields.io/badge/Libft-100%2F100-20%25%20green">
+      <h3><a href="http://github.com/GGwagons/Libft">Libft</a></h3>
     </td>
-    <td>
+    <td height="80" width="80">
       <a href="https://github.com/GGwagons/ft_printf"><img src="img/ft_printfe.png"/></a>
     </td>
     <td>
-      <h4 align="center"><a href="http://github.com/GGwagons/ft_printf">ft_printf</a></h4>
-      <img src="https://img.shields.io/badge/ft_printf-100%2F100-20%25%20green">
+      <h3><a href="http://github.com/GGwagons/ft_printf">ft_printf</a></h3>
     </td>
-  </tr>
-  <tr align="center">
-    <td>
+    <td height="80" width="80">
       <a href="https://github.com/GGwagons/get_next_line"><img src="img/get_next_linee.png"/></a>
     </td>
     <td>
-      <h4 align="center"><a href="http://github.com/GGwagons/get_next_line">get_next_line</a></h4>
-      <img src="https://img.shields.io/badge/get_next_line-100%2F101-20%25%20green">
+      <h3><a href="http://github.com/GGwagons/get_next_line">get_next_line</a></h3>
     </td>
-    <td>
+  </tr>
+<!--  -->
+  <tr>
+    <td height="80" width="80">
       <a href="https://github.com/GGwagons/minitalk"><img src="img/minitalkm.png"/></a>
     </td>
     <td>
-      <h4 align="center"><a href="http://github.com/GGwagons/minitalk">minitalk</a></h4>
-      <img src="https://img.shields.io/badge/Fractol-125%2F115-20%25%20green">
+      <h3><a href="http://github.com/GGwagons/minitalk">minitalk</a></h3>
     </td>
-  </tr>
-
-  <tr align="center">
-    <td>
+    <td height="80" width="80">
       <a href="https://github.com/GGwagons/Fract-ol"><img src="img/fract-olm.png"/></a>
     </td>
     <td>
-      <h4 align="center"><a href="http://github.com/GGwagons/Fract-ol">Fract-ol</a></h4>
-      <img src="https://img.shields.io/badge/Fractol-125%2F113-20%25%20green">
+      <h3><a href="http://github.com/GGwagons/Fract-ol">Fract-ol</a></h3>
     </td>
     <td>
       <a href="https://github.com/GGwagons/push_swap"><img src="img/push_swape.png"/></a>
     </td>
     <td>
-      <h4 align="center"><a href="http://github.com/GGwagons/push_swap">push_swap</a></h4>
-      <img src="https://img.shields.io/badge/push_swap-100%2F84-20%25%20green">
+      <h3 ><a href="http://github.com/GGwagons/push_swap">push_swap</a></h3>
     </td>
   </tr>
-   <tr align="center">
-    <td>
+  <!--  -->
+  <tr>
+    <td height="80" width="80">
       <a href="https://github.com/GGwagons/Philosophers"><img src="img/philosopherse.png"/></a>
     </td>
     <td>
-      <h4 align="center"><a href="http://github.com/GGwagons/Philosophers">Philosophers</a></h4>
-      <img src="https://img.shields.io/badge/Philosophers-100%2F100-20%25%20green">
+      <h3><a href="http://github.com/GGwagons/Philosophers">Philosophers</a></h3>
     </td>
-    <td>
+    <td height="80" width="80">
       <a href="https://github.com/GGwagons/Minishell"><img src="img/minishelle.png"/></a>
     </td>
     <td>
-      <h4 align="center"><a href="http://github.com/GGwagons/Minishell">Minishell</a></h4>
-      <img src="https://img.shields.io/badge/Minishell-100%2F93-20%25%20green">
+      <h3><a href="http://github.com/GGwagons/Minishell">Minishell</a></h3>
     </td>
-    <tr>
-     <td>
+    <td height="80" width="80">
       <a href="https://github.com/GGwagons/NetPractice"><img src="img/netpracticee.png"/></a>
     </td>
     <td>
-      <h4 align="center"><a href="http://github.com/GGwagons/NetPractice">NetPractice</a></h4>
-      <img src="https://img.shields.io/badge/NetPractice-100%2F100-20%25%20green">
+      <h3><a href="http://github.com/GGwagons/NetPractice">NetPractice</a></h3>
     </td>
-    <td>
+  </tr>
+    <!--  -->
+  <tr>
+    <td height="80" width="80">
       <a href="https://github.com/GGwagons/cub3D"><img src="img/cub3de.png"/></a>
     </td>
     <td>
-      <h4 align="center"><a href="http://github.com/GGwagons/cub3D">Cub3D</a></h4>
-      <img src="https://img.shields.io/badge/cub3D-100%2F100-20%25%20green">
+      <h3><a href="http://github.com/GGwagons/cub3D">Cub3D</a></h3>
     </td>
-    </tr>
-    <tr>
-     <td>
+    <td height="80" width="80">
       <a href="https://github.com/GGwagons/CPP"><img src="img/cppe.png"/></a>
     </td>
-    <td align="center">
-      <h4 align="center"><a href="http://github.com/GGwagons/CPP">C++</a></h4>
-      <img src="https://img.shields.io/badge/C++-100%2F100-20%25%20green">
-    </td>
     <td>
+      <h3><a href="http://github.com/GGwagons/CPP">C++</a></h3>
+    </td>
+    <td height="80" width="80">
       <!--<a href="https://github.com/GGwagons/cub3D"><img src="img/cub3de.png"/></a>-->
     </td>
     <td>
-      <!--<h4 align="center"><a href="http://github.com/GGwagons/cub3D">Cub3D</a></h4>
+      <!--<h3 align="center"><a href="http://github.com/GGwagons/cub3D">Cub3D</a></h3>
       ##<img src="https://img.shields.io/badge/cub3D-100%2F100-20%25%20green">-->
     </td>
-    </tr>
   </tr>
 </table>
 
+#
+
+<h2>PYTHON</h2>
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/GGwagons/Python/tree/main/Guess_The_Number">Guess_The_Number</a><h3>
+    </td>
+    <!--  -->
+    <td>
+      <h3><a href="https://github.com/GGwagons/Python/tree/main/Auto_Login">Auto_Login</a></h3>
+    </td>
+  </tr>
+</table>
+
+#
+
+<h2>BASH</h2>
+<h4>----> Coming Soon</h4>
+
+
+
 <!--  <tr align="center">
 ##    <td><a href="https://github.com/GGwagons/Born2beroot"><img src="img/born2beroote.png"/></a></td>
-##    <td><h4 align="center"><a href="http://github.com/GGwagons/Born2beroot">Born2beroot</a></h4>
+##    <td><h3 align="center"><a href="http://github.com/GGwagons/Born2beroot">Born2beroot</a></h3>
 ##    <img src="https://img.shields.io/badge/Born2beroot-100%2F100-20%25%20green">
 ##    </td>
   </tr> --!>
