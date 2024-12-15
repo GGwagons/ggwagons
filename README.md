@@ -108,12 +108,6 @@ Originally from Slovenia, but living in Austria (Vienna).
     <td>
       <h3 align="center"><a href="https://github.com/GGwagons/Python/tree/main/Auto_Login">Auto_Login</a></h3 align="center">
     </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    </td>
   </tr>
 </table>
 
