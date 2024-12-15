@@ -16,19 +16,19 @@ Originally from Slovenia, but living in Austria (Vienna).
       <a href="https://github.com/GGwagons/Libft"><img src="img/libfte.png"/></a>
     </td>
     <td>
-      <h3><a href="http://github.com/GGwagons/Libft">Libft</a></h3>
+      <h3 align="center"><a href="http://github.com/GGwagons/Libft">Libft</a></h3 align="center">
     </td>
     <td height="80" width="80">
       <a href="https://github.com/GGwagons/ft_printf"><img src="img/ft_printfe.png"/></a>
     </td>
     <td>
-      <h3><a href="http://github.com/GGwagons/ft_printf">ft_printf</a></h3>
+      <h3 align="center"><a href="http://github.com/GGwagons/ft_printf">ft_printf</a></h3 align="center">
     </td>
     <td height="80" width="80">
       <a href="https://github.com/GGwagons/get_next_line"><img src="img/get_next_linee.png"/></a>
     </td>
     <td>
-      <h3><a href="http://github.com/GGwagons/get_next_line">get_next_line</a></h3>
+      <h3 align="center"><a href="http://github.com/GGwagons/get_next_line">get_next_line</a></h3 align="center">
     </td>
   </tr>
 <!--  -->
@@ -37,19 +37,19 @@ Originally from Slovenia, but living in Austria (Vienna).
       <a href="https://github.com/GGwagons/minitalk"><img src="img/minitalkm.png"/></a>
     </td>
     <td>
-      <h3><a href="http://github.com/GGwagons/minitalk">minitalk</a></h3>
+      <h3 align="center"><a href="http://github.com/GGwagons/minitalk">minitalk</a></h3 align="center">
     </td>
     <td height="80" width="80">
       <a href="https://github.com/GGwagons/Fract-ol"><img src="img/fract-olm.png"/></a>
     </td>
     <td>
-      <h3><a href="http://github.com/GGwagons/Fract-ol">Fract-ol</a></h3>
+      <h3 align="center"><a href="http://github.com/GGwagons/Fract-ol">Fract-ol</a></h3 align="center">
     </td>
     <td>
       <a href="https://github.com/GGwagons/push_swap"><img src="img/push_swape.png"/></a>
     </td>
     <td>
-      <h3 ><a href="http://github.com/GGwagons/push_swap">push_swap</a></h3>
+      <h3 align="center" ><a href="http://github.com/GGwagons/push_swap">push_swap</a></h3 align="center">
     </td>
   </tr>
   <!--  -->
@@ -58,19 +58,19 @@ Originally from Slovenia, but living in Austria (Vienna).
       <a href="https://github.com/GGwagons/Philosophers"><img src="img/philosopherse.png"/></a>
     </td>
     <td>
-      <h3><a href="http://github.com/GGwagons/Philosophers">Philosophers</a></h3>
+      <h3 align="center"><a href="http://github.com/GGwagons/Philosophers">Philosophers</a></h3 align="center">
     </td>
     <td height="80" width="80">
       <a href="https://github.com/GGwagons/Minishell"><img src="img/minishelle.png"/></a>
     </td>
     <td>
-      <h3><a href="http://github.com/GGwagons/Minishell">Minishell</a></h3>
+      <h3 align="center"><a href="http://github.com/GGwagons/Minishell">Minishell</a></h3 align="center">
     </td>
     <td height="80" width="80">
       <a href="https://github.com/GGwagons/NetPractice"><img src="img/netpracticee.png"/></a>
     </td>
     <td>
-      <h3><a href="http://github.com/GGwagons/NetPractice">NetPractice</a></h3>
+      <h3 align="center"><a href="http://github.com/GGwagons/NetPractice">NetPractice</a></h3 align="center">
     </td>
   </tr>
     <!--  -->
@@ -79,19 +79,19 @@ Originally from Slovenia, but living in Austria (Vienna).
       <a href="https://github.com/GGwagons/cub3D"><img src="img/cub3de.png"/></a>
     </td>
     <td>
-      <h3><a href="http://github.com/GGwagons/cub3D">Cub3D</a></h3>
+      <h3 align="center"><a href="http://github.com/GGwagons/cub3D">Cub3D</a></h3 align="center">
     </td>
     <td height="80" width="80">
       <a href="https://github.com/GGwagons/CPP"><img src="img/cppe.png"/></a>
     </td>
     <td>
-      <h3><a href="http://github.com/GGwagons/CPP">C++</a></h3>
+      <h3 align="center"><a href="http://github.com/GGwagons/CPP">C++</a></h3 align="center">
     </td>
     <td height="80" width="80">
       <!--<a href="https://github.com/GGwagons/cub3D"><img src="img/cub3de.png"/></a>-->
     </td>
     <td>
-      <!--<h3 align="center"><a href="http://github.com/GGwagons/cub3D">Cub3D</a></h3>
+      <!--<h3 align="center" align="center"><a href="http://github.com/GGwagons/cub3D">Cub3D</a></h3 align="center">
       ##<img src="https://img.shields.io/badge/cub3D-100%2F100-20%25%20green">-->
     </td>
   </tr>
@@ -103,11 +103,11 @@ Originally from Slovenia, but living in Austria (Vienna).
 <table align="center">
   <tr>
     <td>
-      <h3><a href="https://github.com/GGwagons/Python/tree/main/Guess_The_Number">Guess_The_Number</a><h3>
+      <h3 align="center"><a href="https://github.com/GGwagons/Python/tree/main/Guess_The_Number">Guess_The_Number</a><h3 align="center">
     </td>
     <!--  -->
     <td>
-      <h3><a href="https://github.com/GGwagons/Python/tree/main/Auto_Login">Auto_Login</a></h3>
+      <h3 align="center"><a href="https://github.com/GGwagons/Python/tree/main/Auto_Login">Auto_Login</a></h3 align="center">
     </td>
     <td></td>
   </tr>
@@ -122,7 +122,7 @@ Originally from Slovenia, but living in Austria (Vienna).
 
 <!--  <tr align="center">
 ##    <td><a href="https://github.com/GGwagons/Born2beroot"><img src="img/born2beroote.png"/></a></td>
-##    <td><h3 align="center"><a href="http://github.com/GGwagons/Born2beroot">Born2beroot</a></h3>
+##    <td><h3 align="center" align="center"><a href="http://github.com/GGwagons/Born2beroot">Born2beroot</a></h3 align="center">
 ##    <img src="https://img.shields.io/badge/Born2beroot-100%2F100-20%25%20green">
 ##    </td>
   </tr> --!>
