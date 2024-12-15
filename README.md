@@ -10,7 +10,7 @@ Originally from Slovenia, but living in Austria (Vienna).
 
 <h2>42 PROJECTS </h2>
 
-<table>
+<table align="center">
   <tr>
     <td height="80" width="80">
       <a href="https://github.com/GGwagons/Libft"><img src="img/libfte.png"/></a>
@@ -100,7 +100,7 @@ Originally from Slovenia, but living in Austria (Vienna).
 #
 
 <h2>PYTHON</h2>
-<table>
+<table align="center">
   <tr>
     <td>
       <h3><a href="https://github.com/GGwagons/Python/tree/main/Guess_The_Number">Guess_The_Number</a><h3>
@@ -109,6 +109,7 @@ Originally from Slovenia, but living in Austria (Vienna).
     <td>
       <h3><a href="https://github.com/GGwagons/Python/tree/main/Auto_Login">Auto_Login</a></h3>
     </td>
+    <td></td>
   </tr>
 </table>
 
