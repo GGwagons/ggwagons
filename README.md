@@ -119,8 +119,8 @@ Originally from Slovenia, but living in Austria (Vienna).
 <h2 align="center">SKILLS </h2>
   <img src="img/c.svg" height="50">
   <img src="img/cpp.svg" height="50">
-  <img src="img/html.svg" height="50">
-  <img src="img/css.svg"height="50">
+  <img src="img/html-1.svg" height="50">
+  <img src="img/css-3.svg"height="50">
   <img src="img/linux.svg" height="50">
   <img src="img/unix.svg" height="50">
   <img src="img/git.svg" height="50">
