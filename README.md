@@ -116,22 +116,7 @@ Originally from Slovenia, but living in Austria (Vienna).
 <h2>BASH</h2>
 <h4>----> Coming Soon</h4>
 
-
-
-<!--  <tr align="center">
-##    <td><a href="https://github.com/GGwagons/Born2beroot"><img src="img/born2beroote.png"/></a></td>
-##    <td><h3 align="center" align="center"><a href="http://github.com/GGwagons/Born2beroot">Born2beroot</a></h3 align="center">
-##    <img src="https://img.shields.io/badge/Born2beroot-100%2F100-20%25%20green">
-##    </td>
-  </tr> --!>
-
-
-
-<p>
-<h2 align="center">
-SKILLS 
-</h2>
-<p>
+<h2 align="center">SKILLS </h2>
   <img src="img/c.svg" height="50">
   <img src="img/cpp.svg" height="50">
   <img src="img/html.svg" height="50">
