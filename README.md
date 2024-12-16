@@ -3,11 +3,6 @@
 </p>
 
 
-<h2 align="center">ABOUT ME</h2>
-My name is Miha Türk, a Material Design Engineering graduate with a passion for graphic, 3D design and programming.
-I'm furthering my skills in programming at 42Vienna.
-Originally from Slovenia, but living in Austria (Vienna).
-
 <h2 align="center">42 PROJECTS </h2>
 
 <table align="center">
@@ -143,6 +138,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
