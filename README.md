@@ -87,7 +87,6 @@
     </td>
     <td>
       <h3 align="center" align="center"><a href="http://github.com/GGwagons/Inception">Inception</a></h3 align="center">
-      <img src="https://img.shields.io/badge/Inception-100%2F100-20%25%20green">
     </td>
   </tr>
 </table>
