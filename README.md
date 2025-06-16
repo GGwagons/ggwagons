@@ -2,7 +2,7 @@
   <img src="img/m_efug-ezgif.com-crop.gif" height=350/>
 </p>
 
-<h2 align="center">42 PROJECTS </h2>
+<h2 align="center">42 CommonCore </h2>
 
 <table align="center">
   <tr>
@@ -85,8 +85,24 @@
       <a href="https://github.com/GGwagons/Inception"><img src="img/inceptione.png"/></a>
     </td>
     <td>
-      <h3 align="center" align="center"><a href="http://github.com/GGwagons/Inception">Inception</a></h3 align="center">
+      <h3 align="center"><a href="http://github.com/GGwagons/Inception">Inception</a></h3>
     </td>
+  </tr>
+  <tr>
+    <td height="80" width="80">
+      <a href="https://github.com/GGwagons/IRC"><img src="img/ft_ircm.png"></a>
+    </td>
+    <td>
+      <h3 align="center"> <a href="https://github.com/GGwagons/IRC">ft_irc</a></h3>
+    </td>
+        <td height="80" width="80">
+      <a href="https://github.com/GGwagons/ft_transcendence"><img src="img/ft_transcendencem.png"></a>
+    </td>
+    <td>
+      <h3 align="center"> <a href="https://github.com/GGwagons/ft_transcendence">ft_transcendence</a></h3>
+    </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
@@ -111,17 +127,17 @@
 
 <h2 align="center">SKILLS </h2>
 <div style="display:flex; flex-direction:row; gap:10px;">
-  <img src="img/c.svg" height="40">
-  <img src="img/cpp.svg" height="40">
-  <img src="img/html-1.svg" height="40">
-  <img src="img/css-3.svg"height="40">
-  <img src="img/Docker.svg" height="40">
-  <img src="img/unix.svg" height="40">
-  <img src="img/linux.svg" height="40">
-  <img src="img/git.svg" height="40">
-  <img src="img/github.svg" height="40">
-  <img src="img/visual-studio-code.svg" height="40">
-  <img src="img/vim.svg" height="40">
+  <img src="img/c.svg" height="35">
+  <img src="img/cpp.svg" height="35">
+  <img src="img/html-1.svg" height="35">
+  <img src="img/css-3.svg"height="35">
+  <img src="img/Docker.svg" height="35">
+  <img src="img/unix.svg" height="35">
+  <img src="img/linux.svg" height="35">
+  <img src="img/git.svg" height="35">
+  <img src="img/github.svg" height="35">
+  <img src="img/visual-studio-code.svg" height="35">
+  <img src="img/vim.svg" height="35">
 </div>
 </p>
 
