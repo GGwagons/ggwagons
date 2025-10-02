@@ -2,9 +2,10 @@
   <img src="img/m_efug-ezgif.com-crop.gif" height=350/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GGwagons&show_icons=true&theme=nightowl&hide_border=true" height="200" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGwagons&layout=compact&theme=nightowl&hide_border=true" height="200" alt="Top Languages"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GGwagons&show_icons=true&theme=nightowl&hide_border=true" height="200" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGwagons&layout=compact&theme=nightowl&hide_border=true" height="200" alt="Top Languages"/>
+<p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c"/>
   <img src="https://skillicons.dev/icons?i=bash"/>
