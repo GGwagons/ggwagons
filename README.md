@@ -2,6 +2,34 @@
   <img src="img/m_efug-ezgif.com-crop.gif" height=350/>
 </p>
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=GGwagons&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGwagons&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" height="200"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c"/>
+  <img src="https://skillicons.dev/icons?i=bash"/>
+  <img src="https://skillicons.dev/icons?i=git"/>
+  <img src="https://skillicons.dev/icons?i=cpp"/>
+  <img src="https://skillicons.dev/icons?i=docker"/>
+  <img src="https://skillicons.dev/icons?i=symfony"/>
+  <img src="https://skillicons.dev/icons?i=php"/>
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skillicons.dev/icons?i=css"/>
+  <img src="https://skillicons.dev/icons?i=typescript"/>
+  <img src="https://skillicons.dev/icons?i=vscode"/>
+  <img src="https://skillicons.dev/icons?i=tailwind"/>
+  <img src="https://skillicons.dev/icons?i=py"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
+</p>
+
 <h2 align="center">42 CommonCore </h2>
 
 <table align="center">
@@ -124,23 +152,6 @@
 
 <h2 align="center">BASH</h2>
 <h4>----> Coming Soon</h4>
-
-<h2 align="center">SKILLS </h2>
-<div style="display:flex; flex-direction:row; gap:10px;">
-  <img src="img/c.svg" height="35">
-  <img src="img/cpp.svg" height="35">
-  <img src="img/html-1.svg" height="35">
-  <img src="img/css-3.svg"height="35">
-  <img src="img/Docker.svg" height="35">
-  <img src="img/unix.svg" height="35">
-  <img src="img/linux.svg" height="35">
-  <img src="img/git.svg" height="35">
-  <img src="img/github.svg" height="35">
-  <img src="img/visual-studio-code.svg" height="35">
-  <img src="img/vim.svg" height="35">
-</div>
-</p>
-
 
 <!--
 **GGwagons/ggwagons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
