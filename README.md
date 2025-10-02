@@ -8,19 +8,19 @@
 <p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c"/>
-  <img src="https://skillicons.dev/icons?i=bash"/>
-  <img src="https://skillicons.dev/icons?i=git"/>
   <img src="https://skillicons.dev/icons?i=cpp"/>
+  <img src="https://skillicons.dev/icons?i=php"/>
+  <img src="https://skillicons.dev/icons?i=typescript"/>
+  <img src="https://skillicons.dev/icons?i=py"/>
+  <img src="https://skillicons.dev/icons?i=bash"/>
   <img src="https://skillicons.dev/icons?i=docker"/>
   <img src="https://skillicons.dev/icons?i=symfony"/>
-  <img src="https://skillicons.dev/icons?i=php"/>
   <img src="https://skillicons.dev/icons?i=html"/>
   <img src="https://skillicons.dev/icons?i=css"/>
-  <img src="https://skillicons.dev/icons?i=typescript"/>
-  <img src="https://skillicons.dev/icons?i=vscode"/>
   <img src="https://skillicons.dev/icons?i=tailwind"/>
-  <img src="https://skillicons.dev/icons?i=py"/>
+  <img src="https://skillicons.dev/icons?i=vscode"/>
   <img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=git"/>
 </p>
 
 <h2 align="center">42 CommonCore </h2>
